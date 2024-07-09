@@ -1,4 +1,4 @@
-# Healthcare Billing Data Analysis
+#  Billing Data Analysis
 
 The Healthcare Billing Data Analysis project provides a comprehensive solution for managing, validating, analyzing, and generating detailed reports for billing data in the healthcare industry, specifically within the pharmacy sector. Leveraging Python and AI tools, this project ensures data accuracy and produces insightful visualizations and reports.
 
@@ -36,10 +36,3 @@ Ensure your dataset includes columns such as `account_id`, `customer_name`, `bil
 
 To run the analysis and generate reports, open the Jupyter Notebook `main.ipynb`
 
-### Plottings Generated are given below
-
-
-<br/>
-<img src="./readme_assets/report1.png" alt = "draft 1" width="1000px">
-<img src="./readme_assets/report 2.png" alt = "draft 1" width="1000px">
-<img src="./readme_assets/report 3.png" alt = "draft 1" width="1000px">
